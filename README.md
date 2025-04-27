@@ -82,7 +82,6 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="80" height="50" />
 <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="Progresql" width="50" height="50" />
 <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="Oracle" width="80" height="50" />
-
 </p>
 
 
@@ -91,5 +90,9 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 
 
 
-[![GitHub Streak](https://)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvarona&layout=pie)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nvarona)](https://git.io/streak-stats)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvarona&layout=pie" alt="Top Langs"/>
+</p>
