@@ -85,7 +85,7 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 </p>
 
 <p align="center">
-  <img src="images/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github.com/nvarona/nvarona/blob/main/images/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 <p align="center">
