@@ -84,14 +84,15 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="Oracle" width="80" height="50" />
 </p>
 
+<p align="center">
+  <img src="images/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
-
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nvarona)](https://git.io/streak-stats)  
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nvarona" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvarona&layout=pie" alt="Top Langs"/>
