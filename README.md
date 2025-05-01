@@ -63,7 +63,7 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.io" width="50" height="50" />
-<img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="AWS Lambda" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/aws-lambda.png" alt="AWS Lambda" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
