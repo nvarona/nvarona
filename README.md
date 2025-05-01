@@ -7,7 +7,7 @@ In my free time, however... In addition to other hobbies, I like to share moment
 I also like to share my inner peace with the sangha of the Buddhist world, step by step as a Bodhisattva.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/Buda.png" alt="Buda" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/Buda_Gris.png" alt="Buda" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/Bodhisatva.png" alt="Bodhisattva" width="40" height="40"/>
 </p>
 
