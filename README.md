@@ -6,9 +6,9 @@ In my free time, however... In addition to other hobbies, I like to share moment
 
 I also like to share my inner peace with the sangha of the Buddhist world, step by step as a Bodhisattva.
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Buda" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="Bodhisattva" width="40" height="40" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/Buda.png" alt="Buda" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/Bodhisatva.png" alt="Bodhisattva" width="40" height="40"/>
 </p>
 
 ### Other things I like to do
@@ -22,6 +22,9 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 - ☀️ I speak basic English, a little bit of Russian, Catalan, and Spanish fluently
 - ⚡ Fun fact: I can't fly.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nvarona/nvarona/main/images/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
 ### Operating Systems I Work with or develop for
 <p align="left">
@@ -82,10 +85,6 @@ I also like to share my inner peace with the sangha of the Buddhist world, step 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="80" height="50" />
 <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="Progresql" width="50" height="50" />
 <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="Oracle" width="80" height="50" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/nvarona/nvarona/blob/main/images/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 <p align="center">
